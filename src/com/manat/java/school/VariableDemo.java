@@ -15,6 +15,8 @@ public class VariableDemo {
       int a = 13;
       int b = 14;
 
+
+
       boolean x = (a > b) && (a > 20);
       System.out.print(x);
 
