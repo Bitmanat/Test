@@ -15,6 +15,9 @@ public class OddEven {
             System.out.print("Even");
         }
 
+
+
+
         if(remainder == 1){
             System.out.print("Odd");
         }
